@@ -4,7 +4,7 @@
 
 Submitted by: **Gerardo Aldana**
 
-Time spent: **2** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -15,14 +15,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+* [x] Dark mode option that can go back to light mode as well.
+* [x] Functioning tip slider and a label to go along with it.
+* [x] Functioning slider that gives the user the option of adding other people into the total bill.
+* [x] Total amount owed by each person.
+* [x] Changed default colors and also changed original format of the calculator.
 
 ## Video Walkthrough
 
