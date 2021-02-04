@@ -40,6 +40,7 @@ GIF created with [ezgif](https://ezgif.com/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I had a hard time getting adjusted to swift because it has been a while since I last used it. Installing Xcode was also a challenge because it is a large file. There were many errors and failures in the downloading process. Other than that I just played around with the different tools in xcode and was able to create the calculator.
 
 ## License
